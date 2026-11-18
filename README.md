@@ -201,8 +201,8 @@ A full UNO card game written in Java, with a frontend.
 │                                                                      │
 │  P1   C            CAN TRAINS OUTRUN AIRPLANES?                      │
 │  P2   JAVASCRIPT   MAKE LOCAL GREAT AGAIN!                           │
-│  P3   JAVA         3RD SEMESTER PROJECT                              │
-│  P4   PYTHON       4TH SEMESTER PROJECT                              │
+│  P3   JAVA         3RD SEMESTER PROJECT FOR CEGO                     │
+│  P4   PYTHON       CIMPLE, OUR OWN CODE LANGUAGE                     │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
