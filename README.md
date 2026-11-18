@@ -1,16 +1,16 @@
 <!-- ========================================================= -->
 
-<!-- FREDERIK SKIPPER — FINAL FUTURISTIC HUD PROFILE           -->
+<!-- PETER BØDSTRUP — FUTURISTIC HUD PROFILE                   -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=frederikskipper&theme=neon&role=BSc%20Software%20Student%20@AAU&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="frederikskipper profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=peter9530&theme=neon&role=BSc%20Software%20Student%20@AAU&location=Aalborg%2C%20Denmark&v=readme-reference-2" width="100%" alt="Peter9530 profile banner" />
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=SOFTWARE+ENGINEERING+STUDENT;BACKEND+%2F+SYSTEMS+%2F+DATABASES;OBJECT-ORIENTED+DEVELOPMENT;" alt="" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=SOFTWARE+STUDENT+%40+AAU;JAVA+%2F+C+%2F+PYTHON+%2F+JAVASCRIPT;SEMESTER+PROJECTS+%2B+SIDE+PROJECTS;" alt="" /></a>
 
 
 <!-- ========================================================= -->
@@ -19,7 +19,7 @@
 
 <!-- ========================================================= -->
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=frederikskipper&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=peter9530&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ### `01 / PROFILE`
 
@@ -32,15 +32,14 @@
 
 ### `> Direction`
 
-My main direction is:
+Software student at Aalborg University.
 
-* Backend
-* Object-oriented programming
-* System development
-* System design
-* Database systems
-* APIs & business logic
-* Testing & maintainability
+* Object-oriented programming (Java)
+* Low-level programming (C)
+* Web development (JavaScript)
+* Python
+* Team-based semester projects
+* Games & interactive applications
 
 </td>
 
@@ -51,18 +50,16 @@ My main direction is:
 ```text
 ┌────────────────────────────────┐
 │                                │
-│  CURRENT COURSES               │
-│  ├─ Agile Software Engineering │
-│  ├─ Machine Intelligence       │
-│  └─ Database Systems           │
+│  STUDYING                      │
+│  └─ BSc Software @ AAU         │
 │                                │
-│  Core Engagements              │
-│  ├─ Backend                    │
-│  ├─ OOP                        │
-│  ├─ APIs                       │
-│  └─ System Design              │
+│  SEMESTER PROJECTS             │
+│  ├─ P1  ::  C                  │
+│  ├─ P2  ::  JavaScript         │
+│  ├─ P3  ::  Java               │
+│  └─ P4  ::  Python             │
 │                                │
-│                                │
+│  BASE  ::  Aalborg, Denmark    │
 │                                │
 └────────────────────────────────┘
 ```
@@ -78,85 +75,41 @@ My main direction is:
 
 <!-- ========================================================= -->
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=frederikskipper&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=peter9530&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ### `02 / ENGINEERING STACK`
 
 
 <div align="left">
 
-<h3><code> ACADEMIA </code></h3>
-<p>
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-</p>
-
-<h3><code> DATABASE </code></h3>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<h3><code> DESIGN </code></h3>
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-<h3><code> FRAMEWORKS AND LIBERIES </code></h3>
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Lombok-BC2525?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />
-</p>
-
-
-<h3><code> QUALITY ASSURANCE </code></h3>
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
-  <img src="https://img.shields.io/badge/Mockito-C21325?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" />
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge" alt="xUnit Badge" />
-</p>
-
-<h3><code> DEVOPS & TOOLS </code></h3>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger_UI-%23C4F1BE.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI">
-</p>
-
 <h3><code> LANGUAGES </code></h3>
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
-<h3><code> PACKAGE MANAGERS </code></h3>
+<h3><code> ACADEMIA </code></h3>
 <p>
-  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-
-<h3><code> LINTERS </code></h3>
+<h3><code> TOOLS </code></h3>
 <p>
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 <h3><code> WORKFLOW PLATFORMS </code></h3>
 <p>
   <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
@@ -168,13 +121,9 @@ My main direction is:
 
 <!-- ========================================================= -->
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=frederikskipper&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=peter9530&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ### `03 / EXPLORING`
-
-<div align="center">
-
-</div>
 
 <br>
 
@@ -186,7 +135,7 @@ My main direction is:
 │                    ◈ CURRENTLY EXPLORING                     │
 │                                                              │
 │                       ╭──────────────╮                       │
-│                       │   C# / .NET  │                       │
+│                       │    Python    │                       │
 │                       ╰──────────────╯                       │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
@@ -197,29 +146,25 @@ My main direction is:
 
 <!-- ========================================================= -->
 
-<!-- 04 — ACTIVE DEVELOPMENT                                   -->
+<!-- 04 — PROJECTS                                             -->
 
 <!-- ========================================================= -->
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=frederikskipper&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=peter9530&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-### `04 / ACTIVE DEVELOPMENT`
-
-<div align="center">
-
-</div>
+### `04 / PROJECTS`
 
 <br>
 
-### `LEETCODE`
+### `UNO GAME`
 
 <div align="center">
 
-<a href="https://github.com/FrederikSkipper/LeetCode">
+<a href="https://github.com/Peter9530/UNOGame">
 
 <img
 src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1118?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=05070A&color=161B22"
-alt="Open LeetCode repository"
+alt="Open UNOGame repository"
 />
 
 </a>
@@ -234,20 +179,45 @@ alt="Open LeetCode repository"
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
 │  LANGUAGE        JAVA                                                │
-│  STRUCTURE       SORTED BY LEETCODE PROBLEM ID                       │
-│  APPROACH        REGULAR COMMITS + EXPLANATORY COMMENTS              │
-│  CURRENT FOCUS   EASY ARRAY PROBLEMS                                 │
-│  DIRECTION       CONTINUOUSLY EXPANDING                              │
+│  TYPE            CARD GAME                                           │
+│  FEATURES        GAME LOGIC + FRONTEND                               │
+│  FOCUS           OBJECT-ORIENTED DESIGN                              │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-A growing collection of Java solutions focused on strengthening problem-solving and algorithmic foundations.
+A full UNO card game written in Java, with a frontend.
+
+<br>
+
+### `UNIVERSITY PROJECTS`
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  P1   C            CAN TRAINS OUTRUN AIRPLANES?                      │
+│  P2   JAVASCRIPT   MAKE LOCAL GREAT AGAIN!                           │
+│  P3   JAVA         3RD SEMESTER PROJECT                              │
+│  P4   PYTHON       4TH SEMESTER PROJECT                              │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/andersdk26/P1-Solution"><img src="https://img.shields.io/badge/P1-C-00599C?style=for-the-badge&logo=github&labelColor=05070A" alt="P1" /></a>
+<a href="https://github.com/bruun12/P2-MLGA"><img src="https://img.shields.io/badge/P2-JavaScript-F7DF1E?style=for-the-badge&logo=github&labelColor=05070A" alt="P2" /></a>
+<a href="https://github.com/JonatanDZ/P3"><img src="https://img.shields.io/badge/P3-Java-ED8B00?style=for-the-badge&logo=github&labelColor=05070A" alt="P3" /></a>
+<a href="https://github.com/bruun12/P4"><img src="https://img.shields.io/badge/P4-Python-3776AB?style=for-the-badge&logo=github&labelColor=05070A" alt="P4" /></a>
+
+</div>
+
+Semester projects built in teams at Aalborg University.
 
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=frederikskipper&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=peter9530&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ### `05 / CONTRIBUTION HEATMAP`
 
@@ -278,29 +248,29 @@ A growing collection of Java solutions focused on strengthening problem-solving 
 
 <!-- ========================================================= -->
 
-<!-- 09 — GITHUB TELEMETRY                                    -->
+<!-- 06 — GITHUB TELEMETRY                                    -->
 
 <!-- ========================================================= -->
 
 ### `06 / GITHUB TELEMETRY`
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=frederikskipper&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=peter9530&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
 
 <img
-src="https://www.gitskins.com/api/section/stats?username=FrederikSkipper&theme=github-dark&style=aura"
+src="https://www.gitskins.com/api/section/stats?username=Peter9530&theme=github-dark&style=aura"
 width="96%"
 alt="GitHub telemetry"
 />
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=FrederikSkipper&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight" alt="FrederikSkipper's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Peter9530&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Peter9530's GitHub Stats" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=FrederikSkipper&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Peter9530&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -313,17 +283,13 @@ alt="GitHub telemetry"
 
 <!-- ========================================================= -->
 
-<!-- 10 — CURRENT OBJECTIVE                                   -->
+<!-- 07 — CURRENT OBJECTIVE                                   -->
 
 <!-- ========================================================= -->
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=frederikskipper&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=peter9530&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ### `07 / CURRENT OBJECTIVE`
-
-<div align="center">
-
-</div>
 
 <br>
 
@@ -334,11 +300,11 @@ alt="GitHub telemetry"
 ║                                                                            ║
 ║                         BUILD → LEARN → ITERATE                            ║
 ║                                                                            ║
-║       Become a stronger software engineer through real systems,            ║
-║       backend development, university projects and continuous practice.    ║
+║       Become a stronger software developer through semester projects,      ║
+║       side projects, teamwork and continuous practice.                     ║
 ║                                                                            ║
-║                     TARGET :: SOFTWARE ENGINEERING                         ║
-║                     VECTOR :: BACKEND                                      ║
+║                     TARGET :: SOFTWARE DEVELOPMENT                         ║
+║                     BASE   :: AALBORG UNIVERSITY                           ║
 ║                     MODE   :: BUILDING                                     ║
 ║                                                                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
